@@ -12,7 +12,5 @@ Build and Run:
 
 Image demo:
 ![Airline](https://github.com/coroyoy1/project-airline-app/blob/d9470ec25d28356a03babfefc53f73dca452764f/airline-demo.png)
-
 ![Airports](https://github.com/coroyoy1/project-airline-app/blob/8ca67341164fce97e91c76271adac77c27f233c6/airport-demo.png)
-
 ![Flight](https://github.com/coroyoy1/project-airline-app/blob/8ca67341164fce97e91c76271adac77c27f233c6/flight-demo.png)
