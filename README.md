@@ -6,7 +6,7 @@ Build and Run:
 "docker build -t project-airline-app ."
 
 2. Once build completed, run the following command:
-"docker run -p 8080:8080 -e API_KEY=<Airlabs API KEY> project-airline-app"
+"docker run -p 8080:8080 -e API_KEY=<Airlabs_API_KEY> project-airline-app"
 
 3. Go browser and visit url "http://localhost:8080"
 
