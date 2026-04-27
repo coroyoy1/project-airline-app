@@ -1,0 +1,18 @@
+#PRACTICAL ASSESSMENT:
+Airline Information System using Spring Boot & AirLabs API
+
+Build and Run:
+1. Build the dockerfile using command:
+"docker build -t project-airline-app ."
+
+2. Once build completed, run the following command:
+"docker run -p 8080:8080 -e API_KEY=<Airlabs API KEY> project-airline-app"
+
+3. Go browser and visit url "http://localhost:8080"
+
+Image demo:
+![Airline](https://github.com/coroyoy1/project-airline-app/blob/d9470ec25d28356a03babfefc53f73dca452764f/airline-demo.png)
+
+![Airports](https://github.com/coroyoy1/project-airline-app/blob/8ca67341164fce97e91c76271adac77c27f233c6/airport-demo.png)
+
+![Flight](https://github.com/coroyoy1/project-airline-app/blob/8ca67341164fce97e91c76271adac77c27f233c6/flight-demo.png)
