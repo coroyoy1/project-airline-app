@@ -1,4 +1,4 @@
-PRACTICAL ASSESSMENT:
+#PRACTICAL ASSESSMENT:
 Airline Information System using Spring Boot & AirLabs API
 
 Build and Run:
@@ -10,8 +10,9 @@ Build and Run:
 
 3. Go browser and visit url "http://localhost:8080"
 
-![image alt](https://github.com/coroyoy1/project-airline-app/blob/d9470ec25d28356a03babfefc53f73dca452764f/airline-demo.png)
+Image demo:
+![Airline](https://github.com/coroyoy1/project-airline-app/blob/d9470ec25d28356a03babfefc53f73dca452764f/airline-demo.png)
 
-![image alt](https://github.com/coroyoy1/project-airline-app/blob/d9470ec25d28356a03babfefc53f73dca452764f/airports-demo.png)
+![Airports](https://github.com/coroyoy1/project-airline-app/blob/d9470ec25d28356a03babfefc53f73dca452764f/airports-demo.png)
 
-![image alt](https://github.com/coroyoy1/project-airline-app/blob/d9470ec25d28356a03babfefc53f73dca452764f/flight-demo.png)
+![Flight](https://github.com/coroyoy1/project-airline-app/blob/d9470ec25d28356a03babfefc53f73dca452764f/flight-demo.png)
