@@ -11,6 +11,6 @@ Build and Run:
 3. Go browser and visit url "http://localhost:8080"
 
 Image demo:
-![Airline](https://github.com/coroyoy1/project-airline-app/blob/d9470ec25d28356a03babfefc53f73dca452764f/airline-demo.png)
-![Airports](https://github.com/coroyoy1/project-airline-app/blob/8ca67341164fce97e91c76271adac77c27f233c6/airport-demo.png)
-![Flight](https://github.com/coroyoy1/project-airline-app/blob/8ca67341164fce97e91c76271adac77c27f233c6/flight-demo.png)
+![image alt](https://github.com/coroyoy1/project-airline-spring-boot-app/blob/be2b485cfc7d89d378ecbc1564cc4149dc71c604/image/airline-demo.png)
+![image alt](https://github.com/coroyoy1/project-airline-spring-boot-app/blob/be2b485cfc7d89d378ecbc1564cc4149dc71c604/image/airport-demo.png)
+![image alt](https://github.com/coroyoy1/project-airline-spring-boot-app/blob/be2b485cfc7d89d378ecbc1564cc4149dc71c604/image/flight-demo.png)
